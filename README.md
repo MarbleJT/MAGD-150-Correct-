@@ -1,4 +1,4 @@
-###MAGD 150
+# MAGD 150
 
 Below are links to the projects I completed in MAGD 150
 
