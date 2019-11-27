@@ -11,6 +11,6 @@ HTML file: https://github.com/MarbleJT/MAGD-150-Correct-/blob/master/f19magd150l
 
 ## Assignment #2
 
-Source Code:
+Source Code:https://github.com/MarbleJT/MAGD-150-Correct-/blob/master/f19magd150lab02_Thomas/sketch.js
 
-HTML file: 
+HTML file: https://github.com/MarbleJT/MAGD-150-Correct-/blob/master/f19magd150lab02_Thomas.html
