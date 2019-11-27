@@ -18,9 +18,9 @@ HTML file: https://github.com/MarbleJT/MA9GD-150-Correct-/blob/master/f19magd150
 
 ## Assignment #9
 
-Source Code:
+Source Code:https://github.com/MarbleJT/MAGD-150-Correct-/blob/master/f19magd150lab09_Thomas/sketch.js
 
-HTML file: 
+HTML file: https://github.com/MarbleJT/MAGD-150-Correct-/blob/master/f19magd150lab09_Thomas/index.html
 
 
 ## Assignment #3
